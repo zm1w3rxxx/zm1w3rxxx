@@ -2,7 +2,7 @@
 
 ---
 
-Discord - zinnex_ • criszhuynh. - She/Her
+Discord - zm1w3rxxx • criszhuynh. - "Zimmer"
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1030116082469572618)](https://discord.com/users/1030116082469572618)
 
