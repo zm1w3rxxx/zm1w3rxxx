@@ -8,4 +8,8 @@ Discord - zm1w3rxxx • criszhuynh. - "Zimmer"
 
 ---
 
-<div align="center"><a><img weight = "auto", height = "auto", alt="criszhuynh." src="https://github.com/user-attachments/assets/5529a2c7-458f-4033-929e-bdc35ade488c"></a></div>
+<div align="center"><a><img weight = "auto", height = "auto", alt="uwucc" src="https://github.com/user-attachments/assets/5529a2c7-458f-4033-929e-bdc35ade488c"></a></div>
+
+---
+
+<div align="center"><a><img weight = "auto", height = "auto", alt="none111" src="https://github.com/user-attachments/assets/5529a2c7-458f-4033-929e-bdc35ade488c"></a></div>
