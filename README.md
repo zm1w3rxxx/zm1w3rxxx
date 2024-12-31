@@ -12,4 +12,4 @@ Discord - zm1w3rxxx • criszhuynh. - "Zimmer"
 
 ---
 
-<div align="center"><a><img weight = "auto", height = "auto", alt="none111" src="https://github.com/user-attachments/assets/5529a2c7-458f-4033-929e-bdc35ade488c"></a></div>
+<div align="center"><a><img weight = "auto", height = "auto", alt="thienatuot" src="https://github.com/user-attachments/assets/ec47a3ef-98c3-4ee6-8e41-4e0881fcc17e"></a></div>
