@@ -10,5 +10,5 @@ Discord - zm1w3rxxx • criszhuynh. - "Zimmer"
 
 <div align="center"><a><img weight = "auto", height = "auto", alt="uwucc" src="https://github.com/user-attachments/assets/5529a2c7-458f-4033-929e-bdc35ade488c"></a></div>
 <div align="center"><a><img weight = "auto", height = "auto", alt="thienatuot" src="https://github.com/user-attachments/assets/ec47a3ef-98c3-4ee6-8e41-4e0881fcc17e"></a></div><br>
-<div align="center"><a>Ăn mày quá khứ =)))</a></div>
-<div align="center"><a><img weight = "89px", height = "147px", alt="xx197" src="https://github.com/user-attachments/assets/f4618b74-a4c5-41d9-bb73-d6456478c3eb"><img weight = "89px", height = "147px", alt="xx1412" src="https://github.com/user-attachments/assets/3d94e884-78bd-4ea4-88b7-b0ac739116d5"><img weight = "89px", height = "147px", alt="xx348" src="https://github.com/user-attachments/assets/f347c9e6-9174-4731-bbc7-98a0f1a9b1ed"></a></div>
+<div align="center"><a>🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤 Y15ZR 🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤</a></div>
+<div align="center"><a><img weight = "auto", height = "auto", alt="xx197" src="https://github.com/user-attachments/assets/02e6b8bb-18cf-4463-858c-524f5e228f8d"><img weight = "auto", height = "auto", alt="xx1412" src="https://github.com/user-attachments/assets/989cbae3-99c9-4b24-a2f0-fc3f0b40d67d"></a></div>
