@@ -12,3 +12,11 @@ Discord - zm1w3rxxx • criszhuynh. - "Zimmer"
 <div align="center"><a><img weight = "auto", height = "auto", alt="thienatuot" src="https://github.com/user-attachments/assets/ec47a3ef-98c3-4ee6-8e41-4e0881fcc17e"></a></div><br>
 <div align="center"><a>🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤 Y15ZR 🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤💜🖤</a></div>
 <div align="center"><a><img weight = "auto", height = "auto", alt="xx197" src="https://github.com/user-attachments/assets/02e6b8bb-18cf-4463-858c-524f5e228f8d"><img weight = "auto", height = "auto", alt="xx1412" src="https://github.com/user-attachments/assets/989cbae3-99c9-4b24-a2f0-fc3f0b40d67d"></a></div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
